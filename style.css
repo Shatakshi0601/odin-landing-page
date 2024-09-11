@@ -37,17 +37,6 @@ body {
     font-weight: 600;
 }
 
-.nav {
-    display: flex;
-    gap: 30px;
-}
-
-.nav a {
-    text-decoration: none;
-    color: var(--text-dark);
-    font-size: 18px;
-}
-
 .hero-content {
     display: flex;
     justify-content: space-between;
